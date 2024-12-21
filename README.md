@@ -69,7 +69,7 @@ Language: HTML, CSS, JAVASCRIPT.
 
 ## DEMO
 
-https://github.com/user-attachments/assets/4a5e766f-351a-444d-9f11-89df3bb62f55
+![4p9p4o](https://github.com/user-attachments/assets/4a5e766f-351a-444d-9f11-89df3bb62f55)
 
 ## REFERENCES
 
